@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **MedQuest**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohamg222?tab=repositories](https://github.com/rohamg222?tab=repositories)
+- 👨‍💻 All of my projects are available at [this page](https://github.com/rohamg222?tab=repositories)
 
 - 💬 Ask me about **Javascript**
 
