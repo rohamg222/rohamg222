@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [this page](https://github.com/rohamg222?tab=repositories)
 
-- 💬 Ask me about **Javascript**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rohamg_c12a3c9e5c8936896a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rohamg_c12a3c9e5c8936896a" height="30" width="40" /></a>
